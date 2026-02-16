@@ -1,5 +1,5 @@
 
-# Gemini Chatbot 🤖
+# AI Chatbot
 
 [![Python](https://img.shields.io/badge/Python-3.12+-blue)](https://www.python.org/)
 [![React](https://img.shields.io/badge/React-18+-blue)](https://reactjs.org/)
